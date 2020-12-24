@@ -4,7 +4,7 @@
 
 - I'm Alvis Zhao.
 - I'm a software engineer.
-- This is my personal website https://alvisisme.gitee.io/.
+- This is my personal website http://www.alvisisme.site.
 
 <!--
 **alvisisme/alvisisme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
